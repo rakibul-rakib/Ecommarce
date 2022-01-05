@@ -1,0 +1,74 @@
+/* margin for all container  */
+.container{
+    margin-bottom: 80px;
+}
+/* carousel part start */
+.orange-bg{
+    background-color:#fceae8 ;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 50px;
+}
+.price{
+    color:#FF136F;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+/* catagory  part start */
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.cat1{
+   background-image: linear-gradient( to right , rgb(223, 159, 41) , rgb(196, 131, 10));
+
+}
+.cat2{
+    background-color:rgb(169, 31, 187) ;
+}
+.cat3{
+    background-color: blue;
+}
+
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+/* shoes part  start*/
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius:10px;
+}
+
+/* bag part */
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+/* email submission part */
+#Contact-us{
+    height: 300px;
+}
+#Contact-us h6{
+  color:gray;
+}
+.abc{
+    margin-top: 7px;
+}
+/* footer */
+
+footer{
+    text-align: center;
+}
